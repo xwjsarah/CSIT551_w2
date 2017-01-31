@@ -9,7 +9,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.util.Log;
-
 import static com.example.willl.csit551_w2.utils.Utils.APP_TAG;
 
 public class MainActivity extends AppCompatActivity {
